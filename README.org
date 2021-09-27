@@ -1,1 +1,32 @@
-test
+* Avelter
+A kubernetes cluster running K3s
+Ideally can be run single node or across multiple nodes
+** Infrastructure
+*** DNS 
+*** NTP (ntpd)
+bind9
+DNS SEC
+*** LDAP (openLDAP)
+*** Kerberos (MIT)
+LDAP Backend
+*** Zabbix
+Monitoring, but may not be needed depending on kube dash
+*** LetsEncrypt
+*** Storage
+** Code
+*** Git
+*** Redmine
+** Groupware
+*** IMAP
+*** SMTP
+*** Webmail (Redmine)
+*** Chat
+*** ScreenShare
+*** Calendar (CalDAV)
+*** Contacts (CardDAV)
+*** ActiveSync (zpush)
+*** Office (Colabora CODE)
+** Personal
+*** Wordpress
+*** Files
+*** Apache HomeDir
