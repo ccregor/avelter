@@ -1,0 +1,1 @@
+sphinx-quickstart --sep -p Avelter -a "Carl Cregor" -v 1.0.0 -l en-us --ext-todo --makefile --no-batchfile doc
